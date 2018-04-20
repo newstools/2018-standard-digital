@@ -1,0 +1,21 @@
+ NAIROBI, KENYA: Twiga foods has teamed up with IBM Research to introduce blockchain technology in financing food kiosk owners in Kenya. ALSO READ:
+
+Tech tipped to lock out land grabbers The two companies said they have extended access to microloans to 220 food stall retailers across Kenya using a blockchain-based financing system.
+
+Twiga Foods was looking to expand its logistic services into a total market ecosystem by adding financial services. Late last year, the $13 million start-up began working with IBM Research to deploy a blockchain-enabled supply lending platform to help scale its reach.
+
+Small and medium sized businesses (SME) in African countries often have difficulty accessing sufficient credit due to the complexities of financing processes, high loan costs, collateral requirements and lack of a credit score. This can make it difficult for these organisations to scale their businesses or implement new processes or technologies.
+
+To address this, scientists at the IBM Lab in Nairobi determined that they could use something most people in Africa do have access to, mobile phones, to accurately calculate credit worthiness.
+
+“After analysing purchase records from a mobile device, we used machine learning algorithms to predict credit worthiness, in turn giving lenders the confidence they need to provide microloans to small businesses. Once the credit score is determined, we used a blockchain, based on the Hyperledger Fabric, to manage the entire lending process from application to receiving offers to accepting the terms to repayment,” said Isaac Markus, a researcher on the inclusive financial services group at IBM Research in Kenya.
+
+With blockchain, the lending process becomes transparent to all permissioned parties involved, from the lending bank to the borrower’s bank and the loan applicants themselves. Blockchains are immutable, helping to reduce fraud, since no one single party can append the blockchain without consensus from the entire network. Finally, blockchains employ a series of “smart contracts” which can be executed in real time, having the potential to significantly reduce the time it takes to manually process and issue a loan.
+
+“Previously, we were focused on helping farmers distribute bananas, tomatoes, onions and potatoes to 2,600 kiosks across Kenya, but we soon realised that we could help them sell even more produce with access to working capital,” said Grant Brooke, co-founder of Twiga Foods. “If the food vendors can sell more, we can distribute more, growing both of our businesses.”
+
+The eight-week pilot processed more than 220 loans with the average loan around $30 (KES 3000) which increased the order size by 30 percent and profits for each retailer, on average, by 6 percent. The loans were for four and eight days with an interest rate of one and two percent, respectively. All of the loans were executed via mobile phone and went directly toward working capital for the businesses. When a retailer had an order delivered, they would get an SMS with loan options for financing that order. They would then respond to the SMS confirming the loan option they preferred.
+
+"We had several iterations of the platform based on feedback from the retailers. The SMS-based solution provided an effective channel for a diverse set of users, some with limited IT literacy, to access financing for their orders," said Andrew Kinai, the lead research engineer on the project at IBM Research.
+
+Based on the success of the pilot, the plan is for the platform to be rolled out to more SMEs across Africa by the end of the year and expanded into new sectors.
